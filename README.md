@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * ✉️  You can contact me at [naolaklilu1@gmail.com](mailto:naolaklilu1@gmail.com)
 * 🧠  I'm learning Angular and .NET
-* 🤝  I'm open to collaborating on Your Projects
+* 🤝  I'm open to collaborate on Your Projects
 
 ### Skills
 
